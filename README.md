@@ -1,6 +1,6 @@
 <!-- 动态打字 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=680&lines=%E6%89%80%E8%B0%93%E8%BF%87%E5%BE%80%EF%BC%8C%E7%9A%86%E4%B8%BA%E5%BA%8F%E7%AB%A0;Build.+Break.+Rebuild.;console.log(%22Hello%2C+HantaoCai%22)" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=680&lines=%E6%89%80%E8%B0%93%E8%BF%87%E5%BE%80%EF%BC%8C%E7%9A%86%E4%B8%BA%E5%BA%8F%E7%AB%A0;print%28%27hello%2C+market%27%29;while+True%3A+ship%28%29" alt="typing" />
 </h1>
 
 <!-- 敲代码 -->
