@@ -39,9 +39,3 @@
 <div align="center">
   <img src="./assets/profile-banner.png" width="100%" alt="banner" />
 </div>
-
-# 🚀 Action
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HantaoCai&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
